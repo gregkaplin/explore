@@ -1,1 +1,1 @@
-This is my first file.Version 2. Version 3. This is from new and shortened feature
+This is from master.
