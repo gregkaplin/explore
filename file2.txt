@@ -1,1 +1,10 @@
-Changing the file completely.
+/MediaBox [0.0000 0.0000 603.0000 783.0000]
+/CropBox [0.0000 0.0000 603.0000 783.0000]
+/BleedBox [0 0 603 783]
+/TrimBox [0 0 603 783]
+/Rotate 0
+/Contents 360 0 R
+/Thumb 348 0 R
+/StructParents 1
+/Type /Page
+/Resources 359 0 R
