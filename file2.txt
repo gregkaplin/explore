@@ -8,3 +8,4 @@
 /StructParents 1
 /Type /Page
 /Resources 359 0 R
+/shorten_title
